@@ -6,7 +6,7 @@
 **What They Do**
 *The Financial Solutions Lab cultivates, supports, and scales innovative ideas that help improve financial health for people facing acute and persistent financial health challenges, including low- to moderate-income individuals and Black and Latinx communities.*
 
-(image)(image/finlab.JPG)
+(Image)(image/finlab.JPG)
 
 **Future**
 *The 2022 cohort was selected for their potential to help individuals better navigate benefits offerings and financial tools that strengthen financial health. In particular, the offerings from this year’s cohort assist consumers with workplace benefits, wealth and credit building, and public systems navigation.*
