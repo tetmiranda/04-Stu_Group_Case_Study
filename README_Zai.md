@@ -1,14 +1,23 @@
 # 04-Stu_Group_Case_Study
-Group study with Leigh, Akhil and Florante
 
-Background: Zai is boldly transforming the future of financial services and powering our customers by making innovative financial services accessible to all.
+**Background**
+*The Financial Solutions Lab was established in 2014 to cultivate, support, and scale innovative ideas that help improve financial health. We focus on solutions addressing acute and persistent financial health challenges faced by low- to moderate-income (LMI) individuals, Black and Latinx communities, and other underserved consumers*
 
-What They Do:
-The Zai brand focuses on mid-market and enterprise-level business customers in the world of integrated financial services, including payments, FX, fraud management, reconciliation and more. While its sister brand CurrencyFair continues as the home for consumers and small businesses who want faster, cheaper foreign exchange.
+**What They Do**
+*The Financial Solutions Lab cultivates, supports, and scales innovative ideas that help improve financial health for people facing acute and persistent financial health challenges, including low- to moderate-income individuals and Black and Latinx communities.*
 
-CurrencyFair, founded in 2010 and with offices in Ireland, UK, Hong-Kong, Singapore & Australia, is a global cross-border payments fintech that serves individuals and businesses with international payments and currency exchange through its proprietary global platform.
+(image)(image/finlab.jpg)
 
-Zai is a Fintech Company: Using API, B2B Network, Blockchain & Cryptocurrency
+**Future**
+*The 2022 cohort was selected for their potential to help individuals better navigate benefits offerings and financial tools that strengthen financial health. In particular, the offerings from this year’s cohort assist consumers with workplace benefits, wealth and credit building, and public systems navigation.*
 
-Future:
-Zai has over 250 employees, growing to 450 by 2025 as we expand our presence across APAC, Europe, the Middle-East, and the US.
+## Description: Support to scale innovative ideas to improve financial health
+*The Financial Solutions Lab was established in 2014 to cultivate, support, and scale innovative ideas that help improve financial health. FSL focuses on solutions addressing acute and persistent financial health challenges faced by low- to moderate-income (LMI) individuals, Black and Latinx communities, and other underserved consumers. The Financial Health Network manages the Financial Solutions Lab in collaboration with founding partner JPMorgan Chase & Co. and with support from Prudential Financial.*
+
+**Collaborators:** Group study with Leigh, Akhil and Florante
+
+### JP Morgan's Financial Solutions Lab
+
+**Case Study Content:**
+*The Financial Solutions Lab, co-founded by JP Morgan Chase, is a program that “seeks to identify, test and bring to scale promising [fintech] innovations that can help to improve financial health in America”, most notably to “underserved workers and diverse work environments”*
+
